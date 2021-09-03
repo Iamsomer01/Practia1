@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\bin\Debug\SQL_BD_Prac1.dacpac
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\bin\Debug\SQL_BD_Prac1.dll
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\bin\Debug\SQL_BD_Prac1.pdb
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\obj\Debug\SQL_BD_Prac1.sqlproj.AssemblyReference.cache
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\obj\Debug\Model.xml
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\obj\Debug\refactor.xml
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\obj\Debug\postdeploy.sql
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\obj\Debug\predeploy.sql
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\obj\Debug\SQL_BD_Prac1.dll
+C:\Users\J\source\repos\Practia1\SQL_BD_Prac1\SQL_BD_Prac1\obj\Debug\SQL_BD_Prac1.pdb
