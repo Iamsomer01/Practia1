@@ -1,0 +1,7 @@
+C:\Users\ENTRANDO A UN VIRUS\Documents\DefaultDBPrac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe.config
+C:\Users\ENTRANDO A UN VIRUS\Documents\DefaultDBPrac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe
+C:\Users\ENTRANDO A UN VIRUS\Documents\DefaultDBPrac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.pdb
+C:\Users\ENTRANDO A UN VIRUS\Documents\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.AssemblyReference.cache
+C:\Users\ENTRANDO A UN VIRUS\Documents\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.CoreCompileInputs.cache
+C:\Users\ENTRANDO A UN VIRUS\Documents\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.exe
+C:\Users\ENTRANDO A UN VIRUS\Documents\DefaultDBPrac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.pdb

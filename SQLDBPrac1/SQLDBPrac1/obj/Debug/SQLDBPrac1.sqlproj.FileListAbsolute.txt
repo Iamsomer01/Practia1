@@ -1,0 +1,5 @@
+C:\Users\ENTRANDO A UN VIRUS\Downloads\SQLDBPrac1v\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dacpac
+C:\Users\ENTRANDO A UN VIRUS\Downloads\SQLDBPrac1v\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dll
+C:\Users\ENTRANDO A UN VIRUS\Downloads\SQLDBPrac1v\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.pdb
+C:\Users\ENTRANDO A UN VIRUS\Downloads\SQLDBPrac1v\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.dll
+C:\Users\ENTRANDO A UN VIRUS\Downloads\SQLDBPrac1v\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.pdb
