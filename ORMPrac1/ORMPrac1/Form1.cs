@@ -55,10 +55,17 @@ namespace ORMPrac1
                 case 2:
                     if (indice >= oCurso.Count)
                         indice = oCurso.Count - 1;
+                    cadena = oCurso[indice].Cod.ToString() + ". " + oCurso[indice].Nombre + "  Fecha inicio" + oCurso[indice].Fecha_Inicio + "  Duracion" + oCurso[indice].Duracion + "  Valor" + oCurso[indice].Valor; 
                         break;
                 case 3:
                     if (indice >= oInscrito.Count)
                         indice = oInscrito.Count - 1;
+                    using (Model.DBPrac1Entities db = new Model.DBPrac1Entities())
+                    { 
+                       oAlumno = db.ALUMNO.ToList();
+                        oCurso = db.CURSO.ToList();
+                        cadena = oInscrito[indice].Id.ToString() + ". " + oAlumno.Find(a => a.Id == oInscrito[indice].Id_Alumno).Nombre + " Estudia " + oCurso.Find(a => a.Cod == (int) oInscrito[indice].Cod_Curso).Nombre;
+                    }
                     break;
             }
             textBox1.Text = cadena;
